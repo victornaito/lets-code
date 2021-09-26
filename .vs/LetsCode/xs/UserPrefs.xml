@@ -1,0 +1,76 @@
+﻿<Properties StartupConfiguration="{EBF81DDE-E057-4D22-88F9-BA8371F9CC10}|Default">
+  <MonoDevelop.Ide.ItemProperties.services.lets-code.LetsCode.Api PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="services/lets-code/LetsCode.Api/Application/Commands/ReportarRebeldeComoTraidorCommand.cs">
+    <Files>
+      <File FileName="services/lets-code/LetsCode.Api/Controllers/RebeldeController.cs" Line="86" Column="110" />
+      <File FileName="services/lets-code/Tests/IntegrationTests/UnitTest1.cs" Line="112" Column="92" />
+      <File FileName="services/lets-code/LetsCode.Api/Application/Commands/RebeldeCommandHandler.cs" Line="40" Column="1" />
+      <File FileName="services/lets-code/LetsCode.Api/Domain/Services/RebeldeDomainService.cs" Line="121" Column="1" />
+      <File FileName="services/lets-code/LetsCode.Api/Infrastructure/RebeldeRepository.cs" Line="35" Column="10" />
+      <File FileName="services/lets-code/LetsCode.Api/Application/Queries/RebeldeQueries.cs" Line="67" Column="1" />
+      <File FileName="services/lets-code/LetsCode.Api/Application/Queries/RebeldeQueriesDTO.cs" Line="26" Column="40" />
+      <File FileName="services/lets-code/LetsCode.Api/Application/Commands/AtualizarLocalizacaoRebeldeCommand.cs" Line="1" Column="1" />
+      <File FileName="services/lets-code/LetsCode.Api/Application/Commands/AdicionarRebeldeCommand.cs" Line="32" Column="22" />
+      <File FileName="services/lets-code/LetsCode.Api/Application/Commands/ReportarRebeldeComoTraidorCommand.cs" Line="9" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LetsCode" expanded="True">
+            <Node name="services" expanded="True">
+              <Node name="lets-code" expanded="True">
+                <Node name="IntegrationTests" expanded="True">
+                  <Node name="Dependencies" expanded="True" />
+                </Node>
+                <Node name="LetsCode.Api" expanded="True">
+                  <Node name="Application" expanded="True">
+                    <Node name="Commands" expanded="True">
+                      <Node name="Validators" expanded="True" />
+                      <Node name="ReportarRebeldeComoTraidorCommand.cs" selected="True" />
+                    </Node>
+                    <Node name="Queries" expanded="True" />
+                  </Node>
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Domain" expanded="True">
+                    <Node name="AggregateRebelde" expanded="True" />
+                    <Node name="Services" expanded="True" />
+                  </Node>
+                  <Node name="Infrastructure" expanded="True" />
+                </Node>
+                <Node name="UnitTests" expanded="True" />
+              </Node>
+              <Node name="SharedKernel" expanded="True">
+                <Node name="Domain" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="LetsCode" expanded="True" selected="True">
+            <Node name="services" expanded="True">
+              <Node name="lets-code" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/victornaito/_PROJECTS/lets-code/lets-code/services/lets-code/LetsCode.Api/Application/Commands/RebeldeCommandHandler.cs" relfile="services/lets-code/LetsCode.Api/Application/Commands/RebeldeCommandHandler.cs" line="40" column="1" />
+      <Breakpoint enabled="false" file="/Users/victornaito/_PROJECTS/lets-code/lets-code/services/lets-code/LetsCode.Api/Domain/Services/RebeldeDomainService.cs" relfile="services/lets-code/LetsCode.Api/Domain/Services/RebeldeDomainService.cs" line="40" column="1" />
+      <Breakpoint enabled="false" file="/Users/victornaito/_PROJECTS/lets-code/lets-code/services/lets-code/LetsCode.Api/Application/Commands/RebeldeCommandHandler.cs" relfile="services/lets-code/LetsCode.Api/Application/Commands/RebeldeCommandHandler.cs" line="60" column="1" />
+      <Breakpoint enabled="false" file="/Users/victornaito/_PROJECTS/lets-code/lets-code/services/lets-code/LetsCode.Api/Domain/Services/RebeldeDomainService.cs" relfile="services/lets-code/LetsCode.Api/Domain/Services/RebeldeDomainService.cs" line="70" column="1" />
+      <Breakpoint file="/Users/victornaito/_PROJECTS/lets-code/lets-code/services/lets-code/LetsCode.Api/Controllers/RebeldeController.cs" relfile="services/lets-code/LetsCode.Api/Controllers/RebeldeController.cs" line="56" column="1" />
+      <Breakpoint file="/Users/victornaito/_PROJECTS/lets-code/lets-code/services/lets-code/LetsCode.Api/Application/Commands/RebeldeCommandHandler.cs" relfile="services/lets-code/LetsCode.Api/Application/Commands/RebeldeCommandHandler.cs" line="38" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
